@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4504" started-at="2019-06-26T10:21:47Z" finished-at="2019-06-26T10:21:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4504" started-at="2019-06-26T10:21:47Z" finished-at="2019-06-26T10:21:51Z">
+      <class name="com.api.rnd.SampleTest">
+        <test-method status="PASS" signature="createTweet()[pri:0, instance:com.api.rnd.SampleTest@6d4b1c02]" name="createTweet" duration-ms="3131" started-at="2019-06-26T10:21:47Z" finished-at="2019-06-26T10:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTweet -->
+        <test-method status="PASS" signature="deleteTweet()[pri:0, instance:com.api.rnd.SampleTest@6d4b1c02]" name="deleteTweet" duration-ms="656" started-at="2019-06-26T10:21:50Z" finished-at="2019-06-26T10:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTweet -->
+        <test-method status="PASS" signature="getLastTweet()[pri:0, instance:com.api.rnd.SampleTest@6d4b1c02]" name="getLastTweet" duration-ms="669" started-at="2019-06-26T10:21:50Z" finished-at="2019-06-26T10:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLastTweet -->
+      </class> <!-- com.api.rnd.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
